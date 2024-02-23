@@ -36,5 +36,3 @@
 
 ![image](https://github.com/aerojohn1223/2022-Production_Quality_Prediction/assets/82106824/ef7a986e-613c-4675-acff-2f5d347eb2a7)
 
- 그래서 급하게 다른 학습 알고리즘들을 사용해보자는 생각을 했다. 이전에 사용해보지 않았던 ExtraTreesRegressor을 RandomForestRegressor의 하이퍼 파라미터와 동일한 하이퍼 파라미터로 설정하고 사용한 결과, 다시 3등을 차지할 수 있었다. 이후 트리 생성 갯수를 1500으로 하이퍼 파라미터를 설정하며 78.24점을 기록할 수 있었다.
-
